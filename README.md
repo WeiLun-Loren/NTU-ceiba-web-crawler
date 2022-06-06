@@ -22,6 +22,6 @@ Simply download from the mainpage of <b>ChromeDriver</b> which suited to the ver
 from selenium import webdriver
 
 driver = webdriver.Chrome("ChromeDriver_path")
-driver.get("website_link_to_crawl")
+driver.get("website_to_crawl")
 driver.quit()
 ```
