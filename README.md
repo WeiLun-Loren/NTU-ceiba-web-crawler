@@ -11,9 +11,7 @@ There are two parts of this web crawler system
 
 ## Requirements & Tutorial
 ### Selenium
-All systems are built under Python 3 using <b>Selenium Browser</b>. <b>Selenium</b> is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
-
-Visit [Selenium](https://www.selenium.dev/documentation/)
+All systems are built under Python 3 using <b>Selenium Browser</b>. [Selenium](https://www.selenium.dev/documentation/) is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
 
 ### WebDriver
 Selenium Browser is to emulate user interaction with browsers, therefore it requires us to download WebDriver for nevigating to web pages, in this repository, we use [ChromeDriver](https://chromedriver.chromium.org/).
